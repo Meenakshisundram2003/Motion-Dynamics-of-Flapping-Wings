@@ -18,11 +18,11 @@ https://github.com/user-attachments/assets/579e3b26-155b-43f9-9e0e-aaa10c7e11aa
 # Plots
 Velocity Graph
 
-![image](https://github.com/user-attachments/assets/747e8a83-0488-4177-836a-d89ffd65f941)
+![WhatsApp Image 2025-01-02 at 14 15 41_26025f81](https://github.com/user-attachments/assets/afe04474-c19a-478a-b0db-b552b50de1fe)
 
-Acceleration Graph
+Acceleration
 
-![image](https://github.com/user-attachments/assets/ec5d70f4-77a3-486b-b903-91c4613298e2)
+![WhatsApp Image 2025-01-02 at 14 16 12_aac812c9](https://github.com/user-attachments/assets/347aeb60-a8eb-4e0e-9bfd-a0d56f558374)
 
 # Prototype
 Front View 
