@@ -5,22 +5,37 @@ Improved the efficiency of flight in flying objects by replicating the quick win
 
 Front View                               
 
-![image](https://github.com/user-attachments/assets/e626539d-b04e-495d-8772-70c5083f3a0a)
+![image](https://github.com/user-attachments/assets/77ec5104-629e-40e4-872a-b412199ce581)
 
-Top View
+Isometric View
 
-![image](https://github.com/user-attachments/assets/f75d9a34-f040-4ab3-b281-0955c8624d14)
-
-3D View
-
-![image](https://github.com/user-attachments/assets/4df0ffe2-e5fb-4a1d-8839-e6da5ab9b87b)
+![image](https://github.com/user-attachments/assets/043cecae-17dd-4f12-b199-597519df097e)
 
 # Simulation
 
-https://github.com/user-attachments/assets/6a474c71-7100-4c4d-a26a-3a59c749c718
+https://github.com/user-attachments/assets/579e3b26-155b-43f9-9e0e-aaa10c7e11aa
 
+# Plots
+Velocity Graph
 
+![image](https://github.com/user-attachments/assets/747e8a83-0488-4177-836a-d89ffd65f941)
 
+Acceleration Graph
+
+![image](https://github.com/user-attachments/assets/ec5d70f4-77a3-486b-b903-91c4613298e2)
+
+# Prototype
+Front View 
+
+![image](https://github.com/user-attachments/assets/6d0ceb3c-b2b4-4952-b9ad-d212674c533c)
+
+Top View
+
+![image](https://github.com/user-attachments/assets/addc634d-0975-41f1-92d5-20b9d6b73e41)
+
+Side View
+
+![image](https://github.com/user-attachments/assets/5d772efa-055b-4348-b635-a2d9f7f11131)
 
 
 
