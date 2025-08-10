@@ -9,12 +9,12 @@ Improved the efficiency of the flap by replicating the quick wing movements obse
 <img src="https://github.com/user-attachments/assets/043cecae-17dd-4f12-b199-597519df097e" width="400" height="400">
 
 ## Simulation
-<img src="https://github.com/user-attachments/assets/579e3b26-155b-43f9-9e0e-aaa10c7e11aa" width="400" height="400">
+https://github.com/user-attachments/assets/579e3b26-155b-43f9-9e0e-aaa10c7e11aa
 
 
 ## Plots
 ### Velocity Graph
-<img src="![WhatsApp Image 2025-01-02 at 14 15 41_26025f81](https://github.com/user-attachments/assets/afe04474-c19a-478a-b0db-b552b50de1fe)" width="400" height="400">
+![WhatsApp Image 2025-01-02 at 14 15 41_26025f81](https://github.com/user-attachments/assets/afe04474-c19a-478a-b0db-b552b50de1fe)
 
 ### Acceleration
 <img src="![WhatsApp Image 2025-01-02 at 14 16 12_aac812c9](https://github.com/user-attachments/assets/347aeb60-a8eb-4e0e-9bfd-a0d56f558374)" width="400" height="400">
