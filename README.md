@@ -9,7 +9,9 @@ Improved the efficiency of the flap by replicating the quick wing movements obse
 <img src="https://github.com/user-attachments/assets/043cecae-17dd-4f12-b199-597519df097e" width="400" height="400">
 
 ## Simulation
-https://github.com/user-attachments/assets/579e3b26-155b-43f9-9e0e-aaa10c7e11aa
+<video width="400" height="400" controls>
+  <source src="https://github.com/user-attachments/assets/579e3b26-155b-43f9-9e0e-aaa10c7e11aa" type="video/mp4">
+</video>
 
 
 ## Plots
