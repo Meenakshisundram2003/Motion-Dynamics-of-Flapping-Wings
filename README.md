@@ -12,10 +12,11 @@ https://github.com/user-attachments/assets/579e3b26-155b-43f9-9e0e-aaa10c7e11aa
 
 
 ## Plots
-<p>
-  <img src="https://github.com/user-attachments/assets/afe04474-c19a-478a-b0db-b552b50de1fe" width="600" height="400">
-  <img src="https://github.com/user-attachments/assets/347aeb60-a8eb-4e0e-9bfd-a0d56f558374" width="600" height="400">
-</p>
+#### Velocity Graph
+<img src="https://github.com/user-attachments/assets/afe04474-c19a-478a-b0db-b552b50de1fe" width="600" height="400">
+
+#### Acceleration
+<img src="https://github.com/user-attachments/assets/347aeb60-a8eb-4e0e-9bfd-a0d56f558374" width="600" height="400">
 
 
 
