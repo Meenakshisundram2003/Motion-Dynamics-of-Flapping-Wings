@@ -19,14 +19,9 @@ https://github.com/user-attachments/assets/579e3b26-155b-43f9-9e0e-aaa10c7e11aa
 <img src="https://github.com/user-attachments/assets/347aeb60-a8eb-4e0e-9bfd-a0d56f558374" width="600" height="400">
 
 ## Prototype
-### Front View 
-<img src="https://github.com/user-attachments/assets/6d0ceb3c-b2b4-4952-b9ad-d212674c533c" width="400" height="400">
-
-### Top View
-<img src="https://github.com/user-attachments/assets/addc634d-0975-41f1-92d5-20b9d6b73e41" width="400" height="400">
-
-### Side View
-<img src="https://github.com/user-attachments/assets/5d772efa-055b-4348-b635-a2d9f7f11131" width="400" height="400">
+| Front View | Top View | Side View |
+|------------|----------|-----------|
+| <img src="https://github.com/user-attachments/assets/6d0ceb3c-b2b4-4952-b9ad-d212674c533c" width="400" height="400"> | <img src="https://github.com/user-attachments/assets/addc634d-0975-41f1-92d5-20b9d6b73e41" width="400" height="400"> | <img src="https://github.com/user-attachments/assets/5d772efa-055b-4348-b635-a2d9f7f11131" width="400" height="400"> |
 
 ## Working
 https://github.com/user-attachments/assets/3799a00c-30a2-4dbe-8812-785fa61b4274
