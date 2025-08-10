@@ -2,11 +2,10 @@
 Improved the efficiency of the flap by replicating the quick wing movements observed in birds. Applied the principles of mechanics to model and simulate the quick return mechanism operating ADAMS simulation software and deployed a prototype using a dynamic toolkit. Analyzed the ratio of power stroke to return stroke was 1:2, resulting in a faster return stroke, improving flight performances and maneuverability.
 
 ## Assembly Model
-### Front View
-<img src="https://github.com/user-attachments/assets/77ec5104-629e-40e4-872a-b412199ce581" width="400" height="400">
+| Front View | Isometric View |
+|------------|----------------|
+| <img src="https://github.com/user-attachments/assets/77ec5104-629e-40e4-872a-b412199ce581" width="400" height="400"> | <img src="https://github.com/user-attachments/assets/043cecae-17dd-4f12-b199-597519df097e" width="400" height="400"> |
 
-### Isometric View
-<img src="https://github.com/user-attachments/assets/043cecae-17dd-4f12-b199-597519df097e" width="400" height="400">
 
 ## Simulation
 https://github.com/user-attachments/assets/579e3b26-155b-43f9-9e0e-aaa10c7e11aa
