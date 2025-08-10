@@ -12,11 +12,17 @@ https://github.com/user-attachments/assets/579e3b26-155b-43f9-9e0e-aaa10c7e11aa
 
 
 ## Plots
-### Velocity Graph
-<img src="https://github.com/user-attachments/assets/afe04474-c19a-478a-b0db-b552b50de1fe" width="600" height="400">
+<p>
+  <figure style="display:inline-block; margin-right:20px;">
+    <img src="https://github.com/user-attachments/assets/afe04474-c19a-478a-b0db-b552b50de1fe" width="600" height="400">
+    <figcaption>Velocity Graph</figcaption>
+  </figure>
+  <figure style="display:inline-block;">
+    <img src="https://github.com/user-attachments/assets/347aeb60-a8eb-4e0e-9bfd-a0d56f558374" width="600" height="400">
+    <figcaption>Acceleration</figcaption>
+  </figure>
+</p>
 
-### Acceleration
-<img src="https://github.com/user-attachments/assets/347aeb60-a8eb-4e0e-9bfd-a0d56f558374" width="600" height="400">
 
 ## Prototype
 | Front View | Top View | Side View |
